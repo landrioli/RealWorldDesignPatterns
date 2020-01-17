@@ -1,0 +1,10 @@
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.exe
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.deps.json
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.runtimeconfig.json
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.runtimeconfig.dev.json
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.dll
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\bin\Debug\netcoreapp3.0\RealWorldDesignPatterns.pdb
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.AssemblyInfoInputs.cache
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.AssemblyInfo.cs
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.dll
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.pdb
