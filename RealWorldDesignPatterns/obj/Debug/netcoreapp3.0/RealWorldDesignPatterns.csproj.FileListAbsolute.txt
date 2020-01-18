@@ -8,3 +8,4 @@ D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreap
 D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.AssemblyInfo.cs
 D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.dll
 D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.pdb
+D:\Workspace\RealWorldDesignPatterns\RealWorldDesignPatterns\obj\Debug\netcoreapp3.0\RealWorldDesignPatterns.csprojAssemblyReference.cache
