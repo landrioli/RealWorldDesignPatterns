@@ -1,4 +1,5 @@
 ﻿using System;
+using RealWorldDesignPatterns.Creational.PrototypePattern;
 
 namespace RealWorldDesignPatterns
 {
@@ -6,6 +7,7 @@ namespace RealWorldDesignPatterns
     {
         static void Main(string[] args)
         {
+            new CopySerializationPrototype().Run();
             Console.WriteLine("Hello World!");
         }
     }
