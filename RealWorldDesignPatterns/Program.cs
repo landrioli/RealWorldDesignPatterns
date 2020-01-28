@@ -1,5 +1,6 @@
 ﻿using System;
 using RealWorldDesignPatterns.Creational.PrototypePattern;
+using RealWorldDesignPatterns.Structural.CompositePattern;
 
 namespace RealWorldDesignPatterns
 {
@@ -7,7 +8,7 @@ namespace RealWorldDesignPatterns
     {
         static void Main(string[] args)
         {
-            new CopySerializationPrototype().Run();
+            new NeuralNetworks().Run();
             Console.WriteLine("Hello World!");
         }
     }

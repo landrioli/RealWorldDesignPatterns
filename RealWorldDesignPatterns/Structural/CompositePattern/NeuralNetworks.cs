@@ -25,7 +25,14 @@ namespace RealWorldDesignPatterns.Structural.CompositePattern
     public class Neuron : IEnumerable<Neuron>
     {
         public float Value;
-        public List<Neuron> In, Out;
+        public List<Neuron> In;
+        public List<Neuron> Out;
+
+        public Neuron()
+        {
+            In = new List<Neuron>();
+            Out = new List<Neuron>();
+        }
 
         public IEnumerator<Neuron> GetEnumerator()
         {
@@ -43,9 +50,9 @@ namespace RealWorldDesignPatterns.Structural.CompositePattern
 
     }
 
-    public class Demo
+    public class NeuralNetworks
     {
-        static void Run()
+        public void Run()
         {
             var neuron1 = new Neuron();
             var neuron2 = new Neuron();
